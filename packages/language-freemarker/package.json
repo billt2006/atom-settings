@@ -1,0 +1,26 @@
+{
+  "name": "language-freemarker",
+  "version": "0.2.0",
+  "description": "Adds syntax highlighting of Freemarker files in Atom.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niltonheck/language-freemarker"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# Freemarker language support in Atom\n\nAdds syntax highlighting and snippets to Freemarker files in Atom.\n\nOriginally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)\nfrom the [Freemarker TextMate bundle](https://github.com/briancavalier/textmate-freemarker-bundle).\n\nContributions are greatly appreciated. Please fork this repository and open a\npull request to add snippets, make grammar tweaks, etc.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/niltonheck/language-freemarker/issues"
+  },
+  "homepage": "https://github.com/niltonheck/language-freemarker",
+  "_id": "language-freemarker@0.2.0",
+  "dist": {
+    "shasum": "a3f7b6f7fb784d5450809ad8dc7db34bf03b561f"
+  },
+  "_resolved": "/var/folders/_x/mht33qs962v4qs2rgnb7cr2h0000gn/T/d-114518-1085-1gt9f7a/package.tgz",
+  "_from": "/var/folders/_x/mht33qs962v4qs2rgnb7cr2h0000gn/T/d-114518-1085-1gt9f7a/package.tgz"
+}

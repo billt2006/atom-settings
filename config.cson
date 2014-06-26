@@ -1,0 +1,10 @@
+'editor':
+  'fontSize': 13
+  'fontFamily': 'Source Code Pro'
+'core': {}
+'exception-reporting':
+  'userId': 'ccaf4df9-8192-4fc3-4a0a-2d1d13f16010'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': 'a888efc0eba6e4a668ab9e72ae94a2c18e4ca005'
