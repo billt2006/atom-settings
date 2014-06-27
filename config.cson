@@ -8,3 +8,5 @@
   'showOnStartup': false
 'metrics':
   'userId': 'a888efc0eba6e4a668ab9e72ae94a2c18e4ca005'
+'vim-mode':
+  'startInInsertMode': true
