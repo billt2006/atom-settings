@@ -23,6 +23,7 @@
 // file-icons customizations
 @import "packages/file-icons/stylesheets/colors"; // to use the colours
 @import "packages/file-icons/stylesheets/icons";  // to use the defined icons
-.icon-file-text {
+@import "packages/file-icons/stylesheets/items";  // to use the @pane-tab-selector
+@{pane-tab-selector}, .icon-file-text {
   &[data-name$=".ftl"]:before  { .code-icon; .medium-purple;  }
 }
