@@ -1,7 +1,10 @@
 'editor':
   'fontSize': 13
   'fontFamily': 'Source Code Pro'
-'core': {}
+'core':
+  'disabledPackages': [
+    'vim-mode'
+  ]
 'exception-reporting':
   'userId': 'ccaf4df9-8192-4fc3-4a0a-2d1d13f16010'
 'welcome':
